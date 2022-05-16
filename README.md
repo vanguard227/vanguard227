@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm vanguard</h1>
-<h3 align="center">I am a web developer.</h3>
+<h1 align="center">Hi 👋, I'm a Web developer.</h1>
 
-- 💬 Ask me about **React.js and Django**
+- 💬 Ask me about **React.js, Rudex, Typescript, GraphQL, Node.js, Vue.js, Python, Django**
 
 - 📫 How to reach me **vanguard227@protonmail.com**
 
