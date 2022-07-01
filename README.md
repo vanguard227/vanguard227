@@ -19,7 +19,7 @@
  
  <p>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=dansofter&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=vanguard227&theme=onedark&row=1&&column=7)](https://github.com/ryo-ma/github-profile-trophy)
  </p>
  
 <br />
@@ -46,17 +46,17 @@
 <br />
 
 
-- 📚 Stack - React, Vue.js, Angular, JavaScript, CSS3, HTML5, Node.js, Express and so on.
-- 🛠 Tools -  npm, Babel, Webpack, Slack, GitHub/Gitlab
+- 📚 Stack - React, Vue.js, JavaScript, CSS, HTML5, TypeScript, Node.js, GraphQL, Python, Django, Flutter and so on.
+- 🛠 Tools - NPM, Babel, Webpack, Docker, GitHub/Gitlab
 - ☕ Open to anything and everything!
 
 ## 💬 About Me
 
-I'm a full stack web/mobile developer. I am good in full stack languages React/Angular and Vue.js and very much interested in Node.js/ExpressJs, Python, Laravel.
+I'm a web & mobile developer. I am good in full stack languages React and Vue.js and very much interested in Node.js, Django, Flutter.
 
 👆 My goal
 
-My goal is to become a successful person and make my family proud of me.
+To me, successful my carrer translates to a happy family.
 
 ## 📫 Let's connect!
 
